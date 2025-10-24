@@ -1,6 +1,11 @@
-## Welcome to my GitHub!
+## Bienvenid@ a mi GitHub!
 
 ¡Hola y bienvenid@ a mi perfil de GitHub! Soy Full Stack Developer con experiencia tanto en frontend como en backend. Me apasiona el mundo de la programación y aplicar mi creatividad al ámbito del desarrollo web. Con mente inquieta y curiosa. Siempre estudiando, siempre creando.
+
+## Idiomas disponibles
+- 🇪🇸 Español
+- 🇺🇸 English
+- 🇮🇹 Italiano
 
 ## Redes:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvia-lc/)
