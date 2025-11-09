@@ -1,6 +1,6 @@
 ## Bienvenid@ a mi GitHub!
 
-¡Hola y bienvenid@ a mi perfil de GitHub! Soy Full Stack Developer con experiencia tanto en frontend como en backend. Me apasiona el mundo de la programación y aplicar mi creatividad al ámbito del desarrollo web. Con mente inquieta y curiosa. Siempre estudiando, siempre creando.
+¡Hola y bienvenid@ a mi perfil de GitHub! Soy Fullstack Developer con experiencia tanto en frontend como en backend. Me apasiona el mundo de la programación y aplicar mi creatividad al ámbito del desarrollo web. Con mente inquieta y curiosa. Siempre estudiando, siempre creando.
 
 ## Idiomas disponibles
 - 🇪🇸 Español
